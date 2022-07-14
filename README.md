@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohit10009&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="mohit10009" /></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mohit10009&theme=merko&hide_border=true)](https://git.io/streak-stats)
+![Jokes Card](https://readme-jokes.vercel.app/api)
